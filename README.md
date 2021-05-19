@@ -1,1 +1,2 @@
-# classify_with_bert
+# bert p4k
+Predict p4k ratings given review text using bert model. More to come...
